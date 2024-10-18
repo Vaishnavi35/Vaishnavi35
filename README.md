@@ -6,6 +6,4 @@ Software Developer with nearly 4 years of experience specializing in React.js, A
 ![GIF Description](https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif) ![Developer GIF](https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif)
 
 
-Languages and Tools: 
 
-![js](https://github.com/user-attachments/assets/b82cabdb-0b15-4ccb-b6f7-c275ab50c2d8)
