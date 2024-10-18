@@ -1,1 +1,2 @@
-
+Hi, this is Vaishnavi.
+Software Developer with nearly 4 years of experience specializing in React.js, Angular and building dynamic, responsive web interfaces. Proficient in HTML, CSS, Javascript, Typescript, Redux Toolkit, Tailwind CSS, Bootstrap, Material UI and skilled in translating complex UI/UX designs into seamless user experiences. Experienced with API integration, Spring Boot, and MySQL for back-end development. Passionate about writing clean, maintainable code and delivering efficient, user-friendly solutions.
